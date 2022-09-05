@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @badsralucky
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...reacts.js
-- 💞️ I’m looking to collaborate on ...web development
+- 👀 I’m interested in ...web development , C and C++ programming
+- 💞️ I’m looking to collaborate on ...web development , C and C++S
 - 📫 How to reach me ...luckybadsra75682@gmail.com
 
 <!---
